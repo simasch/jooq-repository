@@ -2,6 +2,7 @@ package ch.martinelli.demo.jooq.data.repository;
 
 import ch.martinelli.demo.repository.db.tables.Club;
 import ch.martinelli.demo.repository.db.tables.records.ClubRecord;
+import ch.martinelli.oss.jooqspring.JooqRepository;
 import org.jooq.DSLContext;
 import org.springframework.stereotype.Repository;
 
