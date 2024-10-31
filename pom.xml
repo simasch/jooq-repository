@@ -127,8 +127,6 @@
                                         <excludes>flyway_schema_history</excludes>
                                         <recordVersionFields>version</recordVersionFields>
                                     </database>
-                                    <generate>
-                                    </generate>
                                     <target>
                                         <packageName>ch.martinelli.demo.repository.db</packageName>
                                     </target>
