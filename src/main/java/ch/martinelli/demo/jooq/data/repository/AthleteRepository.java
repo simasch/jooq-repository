@@ -2,7 +2,7 @@ package ch.martinelli.demo.jooq.data.repository;
 
 import ch.martinelli.demo.repository.db.tables.Athlete;
 import ch.martinelli.demo.repository.db.tables.records.AthleteRecord;
-import ch.martinelli.jooqspring.JooqRepository;
+import ch.martinelli.oss.jooqspring.JooqRepository;
 import org.jooq.DSLContext;
 import org.springframework.stereotype.Repository;
 
